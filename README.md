@@ -7,23 +7,23 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Ivan%20Nalison&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f3a,50:2d3561,100:1a1f3a&height=180&section=header&text=Ivan%20Nalison&fontSize=42&fontColor=d4af37&animation=twinkling&fontAlignY=32"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Ivan+Nalison;Full+Stack+Developer+%7C+AI+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Ivan+Nalison;Full+Stack+Developer;AI+Specialist;Data+Science+Enthusiast;Cloud+Architecture" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-000000?style=for-the-badge&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Specialization-Artificial%20Intelligence-1a1a1a?style=for-the-badge&logo=robot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Experience-540%2B%20Hours%20Certified-2d2d2d?style=for-the-badge&logo=certificate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-1a1f3a?style=for-the-badge&logo=code&logoColor=d4af37&labelColor=2d3561"/>
+  <img src="https://img.shields.io/badge/Specialization-Artificial%20Intelligence-2d3561?style=for-the-badge&logo=robot&logoColor=d4af37&labelColor=1a1f3a"/>
+  <img src="https://img.shields.io/badge/Experience-540%2B%20Hours%20Certified-1a1f3a?style=for-the-badge&logo=certificate&logoColor=d4af37&labelColor=2d3561"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ivan-nalison/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ivannalison"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:nalison.cn@gmail.com"><img src="https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://wa.me/5597984474693"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.linkedin.com/in/ivan-nalison/"><img src="https://img.shields.io/badge/LinkedIn-1a1f3a?style=for-the-badge&logo=linkedin&logoColor=d4af37" alt="LinkedIn"/></a>
+  <a href="https://github.com/ivannalison"><img src="https://img.shields.io/badge/GitHub-2d3561?style=for-the-badge&logo=github&logoColor=d4af37" alt="GitHub"/></a>
+  <a href="mailto:nalison.cn@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1f3a?style=for-the-badge&logo=gmail&logoColor=d4af37" alt="Email"/></a>
+  <a href="https://wa.me/5597984474693"><img src="https://img.shields.io/badge/WhatsApp-2d3561?style=for-the-badge&logo=whatsapp&logoColor=d4af37" alt="WhatsApp"/></a>
 </p>
 
 <br/>
@@ -35,7 +35,7 @@
 <br/>
 
 <!-- SOBRE MIM -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=3" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Sobre Mim
 
@@ -85,7 +85,7 @@ const ivan: Developer = {
 <br/>
 
 <!-- STACK TECNOLÓGICO -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=3" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Stack Tecnológico
 
@@ -93,38 +93,40 @@ const ivan: Developer = {
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,spring,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,spring,express" />
 </p>
 
 ### 🗄️ Database & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+  <img src="https://img.shields.io/badge/JSON-1a1f3a?style=for-the-badge&logo=json&logoColor=d4af37" />
 </p>
 
 ### 🤖 AI & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-1a1a1a?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-2d2d2d?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-1a1f3a?style=for-the-badge&logo=scikit-learn&logoColor=d4af37" />
+  <img src="https://img.shields.io/badge/Deep_Learning-2d3561?style=for-the-badge&logo=keras&logoColor=d4af37" />
+  <img src="https://img.shields.io/badge/Computer_Vision-1a1f3a?style=for-the-badge&logo=opencv&logoColor=d4af37" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,git,github,jenkins&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gcp,git,github" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & IDEs
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,postman" />
 </p>
 
 </div>
@@ -132,7 +134,7 @@ const ivan: Developer = {
 <br/>
 
 <!-- PROJETOS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=3" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px" height="32px" /> Projetos em Destaque
 
@@ -146,7 +148,7 @@ const ivan: Developer = {
 
 <div align="center">
   <a href="https://github.com/ivannalison/Anlise-de-dados-com-python-e-pandas" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Projeto-000000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/>
+    <img src="https://img.shields.io/badge/Ver_Projeto-1a1f3a?style=for-the-badge&logo=github&logoColor=d4af37" alt="Ver Projeto"/>
   </a>
 </div>
 
@@ -170,7 +172,7 @@ const ivan: Developer = {
 
 <div align="center">
   <a href="https://github.com/ivannalison/crud-cadastro-sanario" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Projeto-000000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/>
+    <img src="https://img.shields.io/badge/Ver_Projeto-1a1f3a?style=for-the-badge&logo=github&logoColor=d4af37" alt="Ver Projeto"/>
   </a>
 </div>
 
@@ -193,8 +195,8 @@ const ivan: Developer = {
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ivan-nalison/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Mais_Projetos_no_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/ivannalison?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Mais_Projetos_no_GitHub-2d3561?style=for-the-badge&logo=github&logoColor=d4af37" alt="GitHub"/>
   </a>
 </div>
 
@@ -203,7 +205,7 @@ const ivan: Developer = {
 <br/>
 
 <!-- CERTIFICAÇÕES -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=3" width="100%">
 
 ## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="32px" height="32px" /> Certificações Profissionais
 
@@ -246,7 +248,7 @@ const ivan: Developer = {
 </td>
 
 <td align="center" width="14.28%">
-<img src="https://cdn-icons-png.flaticon.com/512/3468/3468377.png" width="80px" height="80px" alt="Computer Vision"/>
+<img src="https://cdn-icons-png.flaticon.com/512/9131/9131546.png" width="80px" height="80px" alt="Computer Vision"/>
 <br><br>
 <b>Computer<br/>Vision</b>
 <br><br>
@@ -266,7 +268,7 @@ const ivan: Developer = {
 </td>
 
 <td align="center" width="14.28%">
-<img src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png" width="80px" height="80px" alt="IoT"/>
+<img src="https://cdn-icons-png.flaticon.com/512/8099/8099231.png" width="80px" height="80px" alt="IoT"/>
 <br><br>
 <b>Internet of<br/>Things</b>
 <br><br>
@@ -276,7 +278,7 @@ const ivan: Developer = {
 </td>
 
 <td align="center" width="14.28%">
-<img src="https://cdn-icons-png.flaticon.com/512/2172/2172336.png" width="80px" height="80px" alt="Cloud"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4215/4215831.png" width="80px" height="80px" alt="Cloud"/>
 <br><br>
 <b>Cloud<br/>DevOps</b>
 <br><br>
@@ -292,7 +294,7 @@ const ivan: Developer = {
 <br/>
 
 <!-- COMPETÊNCIAS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=3" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px" /> Competências Profissionais
 
@@ -364,28 +366,8 @@ Mindset:
 
 <br/>
 
-<!-- ESTATÍSTICAS GITHUB -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ivannalison&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Ivan Nalison github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivannalison&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivannalison&theme=dark&hide_border=true&stroke=0d1117&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="Ivan Nalison streak stats"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ivannalison&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9&area=true&hide_border=true" alt="Ivan Nalison activity graph"/>
-</div>
-
-<br/>
-
 <!-- OBJETIVO PROFISSIONAL -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=3" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px" height="32px" /> Objetivo Profissional
 
@@ -442,8 +424,28 @@ Mindset:
 
 <br/>
 
+<!-- ESTATÍSTICAS GITHUB -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=3" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ivannalison&show_icons=true&count_private=true&hide_border=true&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9&bg_color=1a1f3a" alt="Ivan Nalison github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivannalison&layout=compact&hide_border=true&title_color=d4af37&text_color=c9d1d9&bg_color=1a1f3a&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivannalison&theme=dark&hide_border=true&stroke=1a1f3a&background=1a1f3a&ring=d4af37&fire=d4af37&currStreakLabel=d4af37" alt="Ivan Nalison streak stats"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ivannalison&bg_color=1a1f3a&color=d4af37&line=4a9eff&point=c9d1d9&area=true&hide_border=true" alt="Ivan Nalison activity graph"/>
+</div>
+
+<br/>
+
 <!-- CONTATO -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=3" width="100%">
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="32px" height="32px"> Vamos Conversar?
 
@@ -454,16 +456,16 @@ Mindset:
 <br/>
 
 <a href="https://www.linkedin.com/in/ivan-nalison/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ivan_Nalison-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Ivan_Nalison-1a1f3a?style=for-the-badge&logo=linkedin&logoColor=d4af37&labelColor=2d3561" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/ivannalison" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-ivannalison-1a1a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-ivannalison-2d3561?style=for-the-badge&logo=github&logoColor=d4af37&labelColor=1a1f3a" alt="GitHub"/>
 </a>
 <a href="mailto:nalison.cn@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-nalison.cn-2d2d2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d2d2d" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-nalison.cn-1a1f3a?style=for-the-badge&logo=gmail&logoColor=d4af37&labelColor=2d3561" alt="Gmail"/>
 </a>
 <a href="https://wa.me/5597984474693" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-(97)_98447--4693-000000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/WhatsApp-(97)_98447--4693-2d3561?style=for-the-badge&logo=whatsapp&logoColor=d4af37&labelColor=1a1f3a" alt="WhatsApp"/>
 </a>
 
 <br/><br/>
@@ -506,7 +508,7 @@ CLT • PJ • Freelancer
 <br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=3" width="100%">
 
 <div align="center">
 
@@ -518,7 +520,7 @@ CLT • PJ • Freelancer
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ivannalison&color=000000&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ivannalison&color=d4af37&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
 
 <br/><br/>
 
@@ -528,6 +530,6 @@ CLT • PJ • Freelancer
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f3a,50:2d3561,100:1a1f3a&height=120&section=footer"/>
 
 </div>
