@@ -371,8 +371,10 @@ Mindset:
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivannalison&theme=dark&hide_border=true&stroke=1a1a2e&background=1a1a2e&ring=e94560&fire=0f3460&currStreakLabel=e94560" alt="Ivan Nalison streak stats"/>
+<br>
+
 </div>
+
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ivannalison&bg_color=1a1a2e&color=e94560&line=0f3460&point=c9d1d9&area=true&hide_border=true" alt="Ivan Nalison activity graph"/>
