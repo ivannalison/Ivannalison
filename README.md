@@ -525,6 +525,11 @@ CLT • PJ • Freelancer
 <sub>🌟 Transformando café em código desde 2022</sub>
 
 <br/><br/>
+<br/>
+
+<sub>🌍 <strong>Idiomas:</strong> 🇪🇸 Espanhol | 🇧🇷 Português (Nativo) | 🇺🇸 Inglês (Básico)</sub>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,70:0f3460,100:1a1a2e&height=120&section=footer"/>
 
