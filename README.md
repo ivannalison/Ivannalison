@@ -278,7 +278,7 @@ const ivan: Developer = {
 <br><br>
 <sub>☁️ Alura/Google</sub>
 <br>
-<b>6 horas</b>
+<b>2 horas</b>
 </td>
 </tr>
 </table>
@@ -526,7 +526,7 @@ CLT • PJ • Freelancer
 
 <br/><br/>
 
-
+<br/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,70:0f3460,100:1a1a2e&height=120&section=footer"/>
