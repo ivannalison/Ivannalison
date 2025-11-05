@@ -70,8 +70,7 @@ const ivan: Developer = {
     freelancer: true,
     cnpj: "Em processo de regularização 📋"
   },
-  
-  mission: "Transformar desafios complexos em soluções elegantes através do código",
+  mission: "O código simples é o caminho para grandes soluções",
   
   contact: {
     email: "nalison.cn@gmail.com",
