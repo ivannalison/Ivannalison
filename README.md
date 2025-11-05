@@ -70,8 +70,9 @@ const ivan: Developer = {
     freelancer: true,
     cnpj: "Em processo de regularização 📋"
   },
-  mission: "O código simples é o caminho para grandes soluções",
-  
+
+   mission: "O código simples é o caminho para grandes soluções",
+
   contact: {
     email: "nalison.cn@gmail.com",
     phone: "+55 (97) 98447-4693",
@@ -511,9 +512,9 @@ CLT • PJ • Freelancer
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Código%20simples,%20soluções%20gigantes.&author=Autor%20Desconhecido" alt="Dev Quote"/>
 
-<br/><br/>
+<br/><br/> 
 
 <img src="https://komarev.com/ghpvc/?username=ivannalison&color=e94560&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
 
