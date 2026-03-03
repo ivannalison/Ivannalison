@@ -458,8 +458,8 @@ Mindset:
 <a href="mailto:nalison.cn@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-nalison.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
 </a>
-<a href="https://wa.me/5597984474693" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-(97)_98447--4693-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
+<a href="https://wa.me/5597984405148" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-(97)_984405148-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
 </a>
 
 <br/><br/>
