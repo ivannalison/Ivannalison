@@ -6,7 +6,7 @@
 
 <!-- HERO TYPING ULTRA PREMIUM -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=1100&height=100&lines=TRANSFORMANDO+IDEIAS+EM+REALIDADE+DIGITAL;540%2B+HORAS+DE+CERTIFICACOES+PREMIUM;JAVA+%7C+REACT+%7C+PYTHON+%7C+SPRING+BOOT+%7C+AI;FULL+STACK+DEVELOPER+JUNIOR;ESPECIALISTA+EM+IA+%26+DATA+SCIENCE;PRONTO+PARA+O+PROXIMO+NIVEL" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=1100&height=100&lines=TRANSFORMANDO+IDEIAS+EM+REALIDADE+DIGITAL;540%2B+HORAS+DE+CERTIFICACOES;JAVA+%7C+REACT+%7C+PYTHON+%7C+SPRING+BOOT+%7C+AI;FULL+STACK+DEVELOPER;IA+%26+DATA+SCIENCE " alt="Typing SVG"/>
 
 <br/><br/>
 
