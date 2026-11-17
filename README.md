@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141A2E,55:1B2A4A,100:2D4878&height=260&section=header&text=IVAN%20NALISON&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Analista%20de%20sistema&descSize=22&descAlignY=58&descColor=5EE2B9" alt="Ivan Nalison, Analista de sistema"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141A2E,55:1B2A4A,100:2D4878&height=260&section=header&text=IVAN%20NALISON&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Analista%20de%20Sistema&descSize=22&descAlignY=58&descColor=5EE2B9" alt="Ivan Nalison, Analista de Sistema"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2600&pause=1200&color=5EE2B9&center=true&vCenter=true&width=900&height=60&lines=Voc%C3%AA+cuida+do+seu+neg%C3%B3cio.;A+tecnologia+cuida+do+resto." alt="Você cuida do seu negócio. A tecnologia cuida do resto."/>
 
 <br/>
 
 <p>
-A frente da <b>Conecta</b>.<br/>
+À frente da <b>Conecta</b>.<br/>
 Desenvolvendo sistemas, sites, automação com IA e análise de dados,<br/>
 do primeiro site até o sistema que roda a operação sozinho.
 </p>
