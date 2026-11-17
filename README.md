@@ -7,8 +7,8 @@
 <br/>
 
 <p>
-Sou fundador da <b>Conecta</b>.<br/>
-Desenvolvo sistemas, sites, automação com IA e análise de dados,<br/>
+A frente da <b>Conecta</b>.<br/>
+Desenvolvendo sistemas, sites, automação com IA e análise de dados,<br/>
 do primeiro site até o sistema que roda a operação sozinho.
 </p>
 
