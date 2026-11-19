@@ -1,29 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141A2E,55:1B2A4A,100:2D4878&height=260&section=header&text=IVAN%20NALISON&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Analista%20de%20Sistema&descSize=22&descAlignY=58&descColor=5EE2B9" alt="Ivan Nalison, Analista de Sistema"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141A2E,55:1B2A4A,100:2D4878&height=270&section=header&text=IVAN%20NALISON&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Sistemas&descSize=24&descAlignY=60&descColor=5EE2B9" alt="Ivan Nalison, Analista de Sistemas"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2600&pause=1200&color=5EE2B9&center=true&vCenter=true&width=900&height=60&lines=Voc%C3%AA+cuida+do+seu+neg%C3%B3cio.;A+tecnologia+cuida+do+resto." alt="Você cuida do seu negócio. A tecnologia cuida do resto."/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=1200&color=7FA8E8&center=true&vCenter=true&width=900&height=56&lines=Sistemas+web%2C+APIs+e+an%C3%A1lise+de+dados.;Do+problema+%C3%A0+solu%C3%A7%C3%A3o+publicada." alt="Sistemas web, APIs e análise de dados. Do problema à solução publicada."/>
 
 <br/>
 
 <p>
-À frente da <b>Conecta</b>.<br/>
-Desenvolvendo sistemas, sites, automação com IA e análise de dados,<br/>
-do primeiro site até o sistema que roda a operação sozinho.
+Desenvolvimento de sistemas web, automações com IA e painéis de dados.<br/>
+Soluções tecnológicas documentadas, escaláveis e preparadas para produção.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Graduação-ADS,_UNIFAEL_(2026)-5EE2B9?style=flat-square&labelColor=141A2E"/>
-  <img src="https://img.shields.io/badge/Formação-540%2B_horas_certificadas-7FA8E8?style=flat-square&labelColor=141A2E"/>
-  <img src="https://img.shields.io/badge/Experiência-3%2B_anos-5EE2B9?style=flat-square&labelColor=141A2E"/>
-  <img src="https://img.shields.io/badge/Projetos-10%2B_concluídos-7FA8E8?style=flat-square&labelColor=141A2E"/>
+  <img src="https://img.shields.io/badge/Sistemas_web-141A2E?style=flat-square&logo=angular&logoColor=5EE2B9"/>
+  <img src="https://img.shields.io/badge/APIs_e_integrações-141A2E?style=flat-square&logo=nodedotjs&logoColor=5EE2B9"/>
+  <img src="https://img.shields.io/badge/Dados_e_IA-141A2E?style=flat-square&logo=python&logoColor=5EE2B9"/>
+  <img src="https://img.shields.io/badge/Nuvem-141A2E?style=flat-square&logo=googlecloud&logoColor=5EE2B9"/>
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/ivan-nalison/"><img src="https://img.shields.io/badge/LinkedIn-141A2E?style=for-the-badge&logo=linkedin&logoColor=5EE2B9"/></a>
-  <a href="mailto:nalison.cn@gmail.com"><img src="https://img.shields.io/badge/E--mail-141A2E?style=for-the-badge&logo=gmail&logoColor=5EE2B9"/></a>
   <a href="https://wa.me/5597984405148"><img src="https://img.shields.io/badge/WhatsApp-141A2E?style=for-the-badge&logo=whatsapp&logoColor=5EE2B9"/></a>
-  <a href="https://github.com/ivannalison?tab=repositories"><img src="https://img.shields.io/badge/Projetos-141A2E?style=for-the-badge&logo=github&logoColor=5EE2B9"/></a>
+  <a href="mailto:nalison.cn@gmail.com"><img src="https://img.shields.io/badge/E--mail-141A2E?style=for-the-badge&logo=gmail&logoColor=5EE2B9"/></a>
+  <a href="https://www.linkedin.com/in/ivan-nalison/"><img src="https://img.shields.io/badge/LinkedIn-141A2E?style=for-the-badge&logo=linkedin&logoColor=5EE2B9"/></a>
+  <a href="https://github.com/ivannalison?tab=repositories"><img src="https://img.shields.io/badge/GitHub-141A2E?style=for-the-badge&logo=github&logoColor=5EE2B9"/></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5EE2B9,100:7FA8E8&height=2"/>
@@ -32,33 +31,30 @@ do primeiro site até o sistema que roda a operação sozinho.
 
 <br/>
 
-## Conecta
-
-<table>
-<tr>
-<td width="22%" align="center">
-<img src="https://raw.githubusercontent.com/ivannalison/conecta-web/main/public/brand/conecta-simbolo.svg" width="120" alt="Símbolo da Conecta"/>
-</td>
-<td width="78%">
-
-### Tecnologia que conecta possibilidades.
-
-A Conecta desenvolve sistemas, sites, soluções de automação com IA e análise de dados, com suporte em cada etapa, da primeira conversa ao acompanhamento depois que o projeto entra no ar.
-
-Sou o fundador e respondo pelo projeto de ponta a ponta: análise, arquitetura, código e publicação.
-
-<a href="https://github.com/ivannalison/conecta-web"><img src="https://img.shields.io/badge/conecta--web-Angular_·_TypeScript_·_Three.js-97D138?style=flat-square&logo=angular&logoColor=white&labelColor=141A2E"/></a>
-<a href="https://github.com/ivannalison/conecta-api"><img src="https://img.shields.io/badge/conecta--api-API_do_site-97D138?style=flat-square&logo=github&logoColor=white&labelColor=141A2E"/></a>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<h2>Sobre</h2>
+<img width="70" src="https://capsule-render.vercel.app/api?type=rect&color=0:5EE2B9,100:7FA8E8&height=3"/>
+</div>
 
 <br/>
 
-## O que eu resolvo
+<p align="center">
+Desenvolvimento de ponta a ponta: da identificação do problema ao planejamento da solução,<br/>
+da implementação do código à publicação em produção.<br/>
+Sistemas intuitivos, bem documentados e fáceis de manter,<br/>
+com foco em eficiência, confiabilidade e resultados reais.
+</p>
 
-O tamanho da empresa muda o problema. A forma de resolver acompanha.
+<br/>
+
+<div align="center">
+<h2>Soluções tecnológicas</h2>
+<img width="70" src="https://capsule-render.vercel.app/api?type=rect&color=0:5EE2B9,100:7FA8E8&height=3"/>
+<br/><br/>
+<sub>Soluções alinhadas às necessidades, à estrutura e aos objetivos de cada negócio.</sub>
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -68,17 +64,17 @@ O tamanho da empresa muda o problema. A forma de resolver acompanha.
 </tr>
 <tr>
 <td valign="top">
-Presença digital e venda online para quem ainda resolve tudo por planilha e mensagem.
+Presença digital e soluções de vendas para otimizar operações e ampliar oportunidades.
 <br/><br/>
-<sub>Site institucional<br/>Loja online<br/>Atendimento automático no WhatsApp</sub>
+<sub>Sites institucionais<br/>Lojas online<br/>Atendimento automatizado no WhatsApp</sub>
 </td>
 <td valign="top">
-Sistemas que ligam os setores, tiram tarefas repetitivas da equipe e organizam os dados.
+Sistemas integrados para automatizar processos, conectar setores e organizar informações.
 <br/><br/>
 <sub>Sistemas web sob medida<br/>Integrações e APIs<br/>Painéis de indicadores</sub>
 </td>
 <td valign="top">
-Reforço técnico em frentes específicas, seguindo os padrões e processos que a empresa já tem.
+Soluções e serviços técnicos especializados para ambientes corporativos e operações complexas.
 <br/><br/>
 <sub>Cloud e DevOps<br/>Segurança de aplicações<br/>Monitoramento e observabilidade</sub>
 </td>
@@ -87,18 +83,46 @@ Reforço técnico em frentes específicas, seguindo os padrões e processos que 
 
 <br/>
 
-## Como eu trabalho
-
-| Etapa | O que acontece |
-|---|---|
-| **01 · Conversa inicial** | Entendo o problema, o contexto e o que já existe hoje. |
-| **02 · Proposta** | Escopo, prazo e valor definidos por escrito, antes de qualquer código. |
-| **03 · Desenvolvimento** | Entregas parciais, para você acompanhar e ajustar no caminho. |
-| **04 · Entrega e suporte** | Publicação, documentação e acompanhamento depois que entra no ar. |
+<div align="center">
+<h2>Metodologia de trabalho</h2>
+<img width="70" src="https://capsule-render.vercel.app/api?type=rect&color=0:5EE2B9,100:7FA8E8&height=3"/>
+</div>
 
 <br/>
 
-## Tecnologias
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
+<h3>01</h3>
+<b>Diagnóstico</b><br/><br/>
+<sub>Levantamento das necessidades, análise do contexto e identificação dos objetivos.</sub>
+</td>
+<td width="25%" valign="top" align="center">
+<h3>02</h3>
+<b>Planejamento</b><br/><br/>
+<sub>Definição de escopo, prazos e investimento, com alinhamento formal da proposta.</sub>
+</td>
+<td width="25%" valign="top" align="center">
+<h3>03</h3>
+<b>Desenvolvimento</b><br/><br/>
+<sub>Implementação organizada, entregas progressivas e acompanhamento das etapas.</sub>
+</td>
+<td width="25%" valign="top" align="center">
+<h3>04</h3>
+<b>Entrega e suporte</b><br/><br/>
+<sub>Publicação, documentação técnica e acompanhamento após a implantação.</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<h2>Tecnologias</h2>
+<img width="70" src="https://capsule-render.vercel.app/api?type=rect&color=0:5EE2B9,100:7FA8E8&height=3"/>
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -123,41 +147,45 @@ Reforço técnico em frentes específicas, seguindo os padrões e processos que 
 </tr>
 </table>
 
-<sub>Práticas: código limpo, SOLID, testes automatizados, Scrum e integração contínua.</sub>
+<p align="center"><sub>Boas práticas de desenvolvimento, código limpo, princípios SOLID, testes automatizados, Scrum e integração contínua.</sub></p>
 
 <br/>
-
-## Projetos reais, código aberto
-
-Trabalhos publicados no GitHub, com o código disponível para consulta.
-
-| Projeto | O que é | Tecnologias |
-|---|---|---|
-| [**Conecta**](https://github.com/ivannalison/conecta-web) | Site da Conecta, com abertura 3D dos sete cubos do símbolo, serviços, vitrine de projetos conceito e contato. O conteúdo vem da [conecta-api](https://github.com/ivannalison/conecta-api). | Angular, TypeScript, SCSS, Three.js, GSAP |
-| [**Análise de Dados Comerciais**](https://github.com/ivannalison/Anlise-de-dados-com-python-e-pandas) | Análise de dados comerciais, da limpeza dos dados aos indicadores que apoiam a decisão. | Python, Pandas, NumPy, Jupyter |
-| [**Sistema de Cadastro e Gestão**](https://github.com/ivannalison/crud-cadastro-sanario) | Sistema de cadastro com API REST, validação de dados, autenticação com JWT e interface responsiva. | Java, Spring Boot, MySQL |
-
-<br/>
-
-## Formação
-
-**Análise e Desenvolvimento de Sistemas**, UNIFAEL (2022 a 2026, concluído)
-
-| Certificação | Instituição | Carga horária |
-|---|---|---|
-| Desenvolvedor Full Stack | Recode Pro | 540h |
-| Machine Learning | CITHA/IFAM | 80h |
-| Deep Learning | CITHA/IFAM | 80h |
-| Computer Vision | CITHA/IFAM | 80h |
-| Data Science | CITHA/IFAM | 80h |
-| Internet of Things | CITHA/IFAM | 80h |
-| Cloud e DevOps (Google Cloud) | Alura/Google | 6h |
-
-<br/>
-
-## Atividade no GitHub
 
 <div align="center">
+<h2>Projetos</h2>
+<img width="70" src="https://capsule-render.vercel.app/api?type=rect&color=0:5EE2B9,100:7FA8E8&height=3"/>
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="32%" valign="middle" align="center">
+<a href="https://guarda-web-rtcwqczkea-rj.a.run.app">
+<img src="https://raw.githubusercontent.com/ivannalison/monitoramento-amazonia-frontend-guarda-web/main/docs/imagens/04%20Queimadas%20%28MODIS%2024h%29.png" width="100%" alt="GUARDA, monitoramento da Amazônia"/>
+</a>
+</td>
+<td width="68%" valign="middle">
+
+**GUARDA · Monitoramento da Amazônia**
+
+Plataforma de monitoramento ambiental com mapas interativos e dados sobre queimadas, desmatamento, chuva, qualidade do ar e risco de cheias, integrando fontes públicas de informação.
+
+<sub>Aplicação web e infraestrutura de dados publicadas na nuvem do Google.</sub>
+
+[Ver o site no ar](https://guarda-web-rtcwqczkea-rj.a.run.app)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<h2>Atividade no GitHub</h2>
+<img width="70" src="https://capsule-render.vercel.app/api?type=rect&color=0:5EE2B9,100:7FA8E8&height=3"/>
+
+<br/><br/>
 
 <img width="95%" src="https://streak-stats.demolab.com/?user=ivannalison&theme=dark&hide_border=true&background=141A2E&stroke=7FA8E8&ring=5EE2B9&fire=5EE2B9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5EE2B9&sideLabels=7FA8E8&dates=C5CCDB&border_radius=16" alt="Sequência de contribuições"/>
 
@@ -175,19 +203,19 @@ Trabalhos publicados no GitHub, com o código disponível para consulta.
 
 <br/><br/>
 
-## Vamos construir juntos o próximo passo do seu negócio?
+<h2>Soluções tecnológicas para transformar desafios em resultados.</h2>
 
 <p>
-  <a href="mailto:nalison.cn@gmail.com"><img src="https://img.shields.io/badge/nalison.cn@gmail.com-141A2E?style=for-the-badge&logo=gmail&logoColor=5EE2B9"/></a>
   <a href="https://wa.me/5597984405148"><img src="https://img.shields.io/badge/+55_97_98440--5148-141A2E?style=for-the-badge&logo=whatsapp&logoColor=5EE2B9"/></a>
+  <a href="mailto:nalison.cn@gmail.com"><img src="https://img.shields.io/badge/nalison.cn@gmail.com-141A2E?style=for-the-badge&logo=gmail&logoColor=5EE2B9"/></a>
   <a href="https://www.linkedin.com/in/ivan-nalison/"><img src="https://img.shields.io/badge/ivan--nalison-141A2E?style=for-the-badge&logo=linkedin&logoColor=5EE2B9"/></a>
 </p>
 
-<sub>Lábrea-AM, Brasil · GMT-4 · Atendimento remoto · CLT, PJ ou projeto fechado</sub>
+<sub>Atuação remota · Projetos por contrato · Oportunidades PJ ou CLT</sub>
 
 <br/><br/>
 
-<sub>© 2026 Ivan Nalison · Fundador da Conecta</sub>
+<sub>© 2026 Ivan Nalison · Analista de Sistemas</sub>
 
 </div>
 
